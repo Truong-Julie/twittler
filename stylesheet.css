@@ -1,0 +1,47 @@
+body {
+	background-color: grey;
+	font: arial;
+	margin:auto;
+	padding: 50px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align:left;
+	padding: 0 20px;
+}
+.username {
+	/*font-weight: bold;*/
+	font-color:blue;
+}
+.timestamp {
+	margin: -15px 0 0 10px ;
+	font-size: .7em
+}
+
+.button {
+	color:purple;
+}
+
+.testSection {
+	background-color: green;
+}
+.display {
+	border: 12px;
+	border-color: white;
+	border-radius: 5px;
+	background-color: teal;
+}
+
+.userDisplay {
+	display: hidden;
+}
+
+.highlight {
+	font-weight: bold;
+}
+
